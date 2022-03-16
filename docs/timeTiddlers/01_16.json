@@ -1,0 +1,22 @@
+[
+  {
+    "title": "$:/litClock/times/-01:16-Dana Stabenow",
+    "time": "01:16",
+    "quote_first": "At ",
+    "quote_time_case": "sixteen past one",
+    "quote_last": ", they walked into the interview room.",
+    "quoteSourceTitle": "Nothing Gold Can Stay",
+    "quoteAuthor": "Dana Stabenow",
+    "sfw": "yes"
+  },
+  {
+    "title": "$:/litClock/times/-01:16-Agatha Christie",
+    "time": "01:16",
+    "quote_first": "From 1am to ",
+    "quote_time_case": "1.16am",
+    "quote_last": " vouched for by other two conductors.",
+    "quoteSourceTitle": "Murder on the Orient Express",
+    "quoteAuthor": "Agatha Christie",
+    "sfw": "yes"
+  }
+]
