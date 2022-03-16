@@ -4,7 +4,7 @@
  
  ---
 
-TiddlyWiki **litClock** plugin JSON is in master Plugin packaged with <a href="https://github.com/kookma/TW-Gatha">TW-Gatha</a>.  resulting time tiddler JSONs are in docs/timeTiddlers which when imported into TiddlyWiki make system tiddlers with fields: 
+TiddlyWiki **litClock** plugin JSON is in master Plugin packaged with <a href="https://github.com/kookma/TW-Gatha">TW-Gatha</a>.  resulting time tiddler JSONs are in docs/timeTiddlers which when imported into TiddlyWiki make system tiddlers titled -00:00-author with fields: 
 
 * **time**:      ex 00:00,
 * **quote_first**:       ex "I said"
