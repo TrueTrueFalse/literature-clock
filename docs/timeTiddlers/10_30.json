@@ -1,0 +1,32 @@
+[
+  {
+    "title": "$:/litClock/times/-10:30-Mark Haddon",
+    "time": "10:30",
+    "quote_first": "",
+    "quote_time_case": "10.30 a.m.",
+    "quote_last": " Break",
+    "quoteSourceTitle": "The Curious Incident of the Dog in the Night-time",
+    "quoteAuthor": "Mark Haddon",
+    "sfw": "yes"
+  },
+  {
+    "title": "$:/litClock/times/-10:30-Michael Cunningham",
+    "time": "10:30",
+    "quote_first": "according to the clock on the wall, it is barely ",
+    "quote_time_case": "ten thirty",
+    "quote_last": ".",
+    "quoteSourceTitle": "The Hours",
+    "quoteAuthor": "Michael Cunningham",
+    "sfw": "yes"
+  },
+  {
+    "title": "$:/litClock/times/-10:30-Richard Ford",
+    "time": "10:30",
+    "quote_first": "At ",
+    "quote_time_case": "ten-thirty",
+    "quote_last": " I&rsquo;m cleaned up, shaved and dressed in my Easter best - a two-piece seersucker Palm Beach I&rsquo;ve had since college.",
+    "quoteSourceTitle": "The Sportswriter",
+    "quoteAuthor": "Richard Ford",
+    "sfw": "yes"
+  }
+]
