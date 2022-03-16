@@ -1,0 +1,22 @@
+[
+  {
+    "title": "$:/litClock/times/-05:01-Agatha Christie",
+    "time": "05:01",
+    "quote_first": "&ldquo;Oh yes. His clocks were set at ",
+    "quote_time_case": "one minute past five",
+    "quote_last": ", four minutes past five and seven minutes past five. That was the combination number of a safe, 515457. The safe was concealed behind a reproduction of the Mona Lisa. Inside the safe,&rdquo; continued Poirot, with distaste, &ldquo;were the Crown Jewels of the Russian Royal Family.&quot;",
+    "quoteSourceTitle": "The clocks",
+    "quoteAuthor": "Agatha Christie",
+    "sfw": "yes"
+  },
+  {
+    "title": "$:/litClock/times/-05:01-Rose Tremain",
+    "time": "05:01",
+    "quote_first": "Just ",
+    "quote_time_case": "after five o'clock",
+    "quote_last": " on this chill September morning, the fishmonger&rsquo;s cart, containing Kirsten and Emilia and such possessions as they have been able to assemble in the time allowed to them, is driven out of the gates of Rosenborg?",
+    "quoteSourceTitle": "Music and Silence",
+    "quoteAuthor": "Rose Tremain",
+    "sfw": "yes"
+  }
+]
